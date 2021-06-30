@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Material>
+  <DefaultPath />
+  <DefaultTextureObject />
+  <Alias />
+  <Derived>Garment</Derived>
+  <PolyType>Collide</PolyType>
+  <Visibility>Normal</Visibility>
+  <GeometryType>Default</GeometryType>
+  <AlphaMode>None</AlphaMode>
+  <AlphaTestValue>0</AlphaTestValue>
+  <IsTwoSided>False</IsTwoSided>
+  <AudioMat>Default</AudioMat>
+  <input>
+    <semantic>DiffuseMap</semantic>
+    <type>texture</type>
+    <value>art\dynamic\player_character\outfit\jw_robeskirt_light_a03\texture\___psd\bracer_short_light_jw_a03c02_u_v01_d</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>RotationMap1</semantic>
+    <type>texture</type>
+    <value>art\dynamic\player_character\outfit\jw_robeskirt_light_a03\texture\___psd\bracer_short_light_jw_a03c01_u_v01_n</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>GlossMap</semantic>
+    <type>texture</type>
+    <value>art\dynamic\player_character\outfit\jw_robeskirt_light_a03\texture\___psd\bracer_short_light_jw_a03c02_u_v01_s</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>PaletteMap</semantic>
+    <type>texture</type>
+    <value>art\dynamic\player_character\outfit\jw_robeskirt_light_a03\texture\___psd\bracer_short_light_jw_a03c02_u_v01_h</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>PaletteMaskMap</semantic>
+    <type>texture</type>
+    <value>art\dynamic\player_character\outfit\jw_robeskirt_light_a03\texture\___psd\bracer_short_light_jw_a03c02_u_v01_m</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette1</semantic>
+    <type>vector4</type>
+    <value>0,0.5,0,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette2</semantic>
+    <type>vector4</type>
+    <value>0,0.5,0,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette1Specular</semantic>
+    <type>rgba</type>
+    <value>0,0.490196,0</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette2Specular</semantic>
+    <type>rgba</type>
+    <value>0,0.490196,0</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette1MetallicSpecular</semantic>
+    <type>rgba</type>
+    <value>0,0.490196,0</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette2MetallicSpecular</semantic>
+    <type>rgba</type>
+    <value>0,0.490196,0</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>RimWidth</semantic>
+    <type>float</type>
+    <value>1.55</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>RimStrength</semantic>
+    <type>float</type>
+    <value>0.5</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>UsesReflection</semantic>
+    <type>bool</type>
+    <value>False</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>UsesEmissive</semantic>
+    <type>bool</type>
+    <value>False</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>UvScaling</semantic>
+    <type>uvscale</type>
+    <value>1,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>ReflectionIntensity</semantic>
+    <type>float</type>
+    <value>1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>ReflectionBlurIntensity</semantic>
+    <type>float</type>
+    <value>1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>ReflectionSpecInfluence</semantic>
+    <type>float</type>
+    <value>1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>ReflectionContrast</semantic>
+    <type>float</type>
+    <value>0</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>UsesGuildInsignia</semantic>
+    <type>bool</type>
+    <value>False</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>GuildInsigniaPosition</semantic>
+    <type>uvscale</type>
+    <value>0,0</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>GuildInsigniaScale</semantic>
+    <type>uvscale</type>
+    <value>1,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>GuildInsigniaRotation</semantic>
+    <type>float</type>
+    <value>0</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>GuildInsigniaColor1</semantic>
+    <type>vector4</type>
+    <value>0,0,0,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>GuildInsigniaColor2</semantic>
+    <type>vector4</type>
+    <value>0,0,0,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>GuildInsigniaMap</semantic>
+    <type>texture</type>
+    <value>art\defaultassets\black</value>
+    <variable />
+  </input>
+</Material>

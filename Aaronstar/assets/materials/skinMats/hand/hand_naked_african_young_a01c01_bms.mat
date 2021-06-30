@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Material>
+  <DefaultPath />
+  <DefaultTextureObject />
+  <Alias />
+  <Derived>SkinB</Derived>
+  <PolyType>Collide</PolyType>
+  <Visibility>Normal</Visibility>
+  <GeometryType>Default</GeometryType>
+  <AlphaMode>None</AlphaMode>
+  <AlphaTestValue>0</AlphaTestValue>
+  <IsTwoSided>False</IsTwoSided>
+  <AudioMat>Default</AudioMat>
+  <input>
+    <semantic>DiffuseMap</semantic>
+    <type>texture</type>
+    <value>art\dynamic\player_character\outfit\all_naked_body\texture\___psd\hand_naked_caucasian_young_a01c01_bms_d</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>RotationMap1</semantic>
+    <type>texture</type>
+    <value>art\dynamic\player_character\outfit\all_naked_body\texture\___psd\hand_naked_caucasian_young_a01c01_bms_n</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>GlossMap</semantic>
+    <type>texture</type>
+    <value>art\dynamic\player_character\outfit\all_naked_body\texture\___psd\hand_naked_non_young_a01c01_u_s</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>PaletteMap</semantic>
+    <type>texture</type>
+    <value>art\dynamic\player_character\outfit\all_naked_body\texture\___psd\hand_naked_caucasian_young_a01c01_bms_h</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>PaletteMaskMap</semantic>
+    <type>texture</type>
+    <value>art\dynamic\player_character\outfit\all_naked_body\texture\___psd\hand_naked_non_young_a01c01_u_m</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette1</semantic>
+    <type>vector4</type>
+    <value>0,0.5,0,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette2</semantic>
+    <type>vector4</type>
+    <value>0,0.5,0,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette1Specular</semantic>
+    <type>rgba</type>
+    <value>0.827451,0.890196,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette2Specular</semantic>
+    <type>rgba</type>
+    <value>0,0.482353,0</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette1MetallicSpecular</semantic>
+    <type>rgba</type>
+    <value>1,1,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>palette2MetallicSpecular</semantic>
+    <type>rgba</type>
+    <value>0,0.482353,0</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>RimWidth</semantic>
+    <type>float</type>
+    <value>1.55</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>RimStrength</semantic>
+    <type>float</type>
+    <value>0.5</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>FlushTone</semantic>
+    <type>rgba</type>
+    <value>0.47451,0.121569,0.121569</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>FleshBrightness</semantic>
+    <type>float</type>
+    <value>0.1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>ComplexionMap</semantic>
+    <type>texture</type>
+    <value>art\defaultassets\white</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>FacepaintMap</semantic>
+    <type>texture</type>
+    <value>art\defaultassets\default_facepaint</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>AgeMap</semantic>
+    <type>texture</type>
+    <value>art\defaultassets\default_age</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>UsesReflection</semantic>
+    <type>bool</type>
+    <value>False</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>UvScaling</semantic>
+    <type>uvscale</type>
+    <value>1,1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>ReflectionIntensity</semantic>
+    <type>float</type>
+    <value>1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>ReflectionBlurIntensity</semantic>
+    <type>float</type>
+    <value>1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>ReflectionSpecInfluence</semantic>
+    <type>float</type>
+    <value>1</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>ReflectionContrast</semantic>
+    <type>float</type>
+    <value>0</value>
+    <variable />
+  </input>
+  <input>
+    <semantic>UsesAnimatedWrinkles</semantic>
+    <type>bool</type>
+    <value>False</value>
+    <variable />
+  </input>
+</Material>
